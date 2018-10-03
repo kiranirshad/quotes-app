@@ -104,17 +104,12 @@ left: 170px;
 	text-align: center;
 }
 
-/*.card-body{
-	height: 300px;
-}*/
-/*div:hover{
-	
-
+ margin-top: 46px;
+    margin-bottom: 40px;
+    transition: transform .2s;
+    background-color: black !important;
+    border-radius: 90px;	
+    padding: 2px 5px 5px 5px;
 }
 
-#info{
-	position: absolute;
-	    top: 314px;
-    right: 590px;
-}*/
 
