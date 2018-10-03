@@ -105,15 +105,15 @@ left: 170px;
 }
 
 
-.fab{
+#git{
 	 font-size: 60px;
 	padding: 0 20px;
 	display: flex;
 	align-items: flex-end;
-    float: right;
-    position: absolute;
-    right: 0;
-    top: 0;
+    	float: right;
+    	position: absolute;
+    	right: 0;
+   	 top: 0;
 }
 
 
