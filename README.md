@@ -22,5 +22,5 @@ Google Fonts
 
 Font Awesome
 
-#Page Link: https://sabamumtaz123.github.io/Quotes-app/
+#Page Link: https://kirannoor.github.io/quotes-app/
 
