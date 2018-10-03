@@ -1,15 +1,26 @@
 # Quotes-app
-
+porject title 
 
 Quote App
+
+
 LANGUAGE USES:
-HTML
+
+HTM
+L
 CSS
+
 JAVASCRIPT
+
 LINKS:
+
+
 Bootstrap
-jquery
+
+
 Google Fonts
+
 Font Awesome
+
 #Page Link: https://sabamumtaz123.github.io/Quotes-app/
 
